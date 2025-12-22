@@ -6,6 +6,7 @@ Game web 2D chạy trên trình duyệt (desktop-first).
 - Punch: Space or Mouse Click
 - Pause: P (hoặc nút Pause/Resume)
 
+
 ## Run local
 ```bash
 npm install
