@@ -5,6 +5,7 @@
 ## Controls
 - Move: WASD / Arrow
 - Punch: Space or Mouse Click
+- 
 - Pause: P (hoặc nút Pause/Resume)
 
 
