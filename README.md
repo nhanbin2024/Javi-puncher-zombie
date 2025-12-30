@@ -4,7 +4,6 @@
 - Punch: Space or Mouse Click
 - 
 - Pause: P (hoặc nút Pause/Resume)
-
 ## Run local
 ```bash
 npm install
