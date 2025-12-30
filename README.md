@@ -1,4 +1,5 @@
 # Zombie Puncher (Next.js + Canvas) — Javi vs Bots
+
 ## Controls
 - Move: WASD / Arrow
 - Punch: Space or Mouse Click
