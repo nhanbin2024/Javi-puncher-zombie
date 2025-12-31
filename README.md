@@ -2,7 +2,6 @@
 
 ## Controls
 
-
 - Move: WASD / Arrow
 - Punch: Space or Mouse Click
 - 
