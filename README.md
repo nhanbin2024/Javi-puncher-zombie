@@ -8,6 +8,7 @@ ots
 - Punch: Space or Mouse Click
 - - 
 # Zombie Puncher (Next.js + Canvas) — Javi vs Bots
+
 ## Controls
 # Zombie Puncher (Next.js + Canvas) — Javi vs Bots
 ## Controls
