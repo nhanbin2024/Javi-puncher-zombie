@@ -1,5 +1,7 @@
 ![Uploading image.png…]()
-
+# Zombie Puncher (Next.js + Canvas) — Javi vs Bots
+## Controls
+- Move: WASD / Arrow
 # Zombie Puncher (Next.js + Canvas) — Javi vs Bots
 ## Controls
 - Move: WASD / Arrow
