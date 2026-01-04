@@ -1,3 +1,4 @@
+![Uploading image.png…]()
 
 # Zombie Puncher (Next.js + Canvas) — Javi vs Bots
 ## Controls
