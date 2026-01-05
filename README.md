@@ -12,7 +12,13 @@ ots
 ## Controls
 - Move: WASD / Arrow
 - Punch: Space or Mouse Click
-- - 
+- - - Move: WASD / Arrowots
+## Controls
+- Move: WASD / Arrow
+- Punch: Space or Mouse Click
+# Zombie Puncher (Next.js + Canvas) — Javi vs Bots
+## Controls
+- Move: WASD / Arrow
 # Zombie Puncher (Next.js + Canvas) — Javi vs Bots
 
 ## Controls
