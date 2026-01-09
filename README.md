@@ -7,7 +7,11 @@ https://claude.ai/public/artifacts/957607bc-679e-4194-b9d3-783ebf309be7
 
 https://claude.ai/public/artifacts/957607bc-679e-4194-b9d3-783ebf309be7
 
-
+## Controls
+- Move: WASD / Arrow
+- Punch: Space or Mouse Click
+# Zombie Puncher (Next.js + Canvas) — Javi vs Bots
+## Controls
 ## Controls
 - Move: WASD / Arrow
 - Punch: Space or Mouse Click
