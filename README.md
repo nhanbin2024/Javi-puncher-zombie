@@ -1,30 +1,4 @@
 
-## Controlse: WASD / Arrow
-
-- Punch: Space or Mouse Click
-## Controlse: WASD / Arrow
-
-
-
-- Punch: Space or Mouse Click
-## Controls
-## Controls
-- Move: WASD / Arrow
-- Punch: Space or Mouse Click
-## Controls
-- Move: WASD / Arrow
-
-- Punch: Space or Mouse Click
-## Controls
-## Controls
-- Move: WASD / Arrow
-- Punch: Space or Mouse Click
-## Controls
-- Move: WASD / Arrow
-- Punch: Space or Mouse Click
-## Controlse: WASD / Arrow
-
-
 
 - Punch: Space or Mouse Click
 ## Controls
